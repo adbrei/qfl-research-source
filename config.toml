@@ -12,9 +12,9 @@ paginate = 8
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "topics"
+    identifier = "tags"
     name = "Topics"
-    url = "/topics/"
+    url = "/tags/"
     weight = 2
   [[menu.main]]
     identifier = "about"
