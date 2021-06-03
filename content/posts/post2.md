@@ -40,5 +40,5 @@ References:\
 *[1] Kitaev, A. Yu, et al. Classical and Quantum Computation. American Mathematical Society, 2002.* \
 *[2] Moore's Law (Wikipedia): https://en.wikipedia.org/wiki/Moore%27s_law* \
 *[3] Matthews, David. “How to Get Started in Quantum Computing.” Nature News, Nature Publishing Group, 1 Mar. 2021, www.nature.com/articles/d41586-021-00533-x.*  \
-*[4] Quantum Country: https://quantum.country* \
+*[4] Andy Matuschak and Michael A. Nielsen, “Quantum Computing for the Very Curious”, https://quantum.country/qcvc, San Francisco (2019).* \
 *[5] https://whatis.techtarget.com/definition/classical-computing*\
