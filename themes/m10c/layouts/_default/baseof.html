@@ -18,7 +18,7 @@
   </head>
   <body>
     <header class="app-header">
-      <a href="{{ .Site.BaseURL }}"><img class="app-header-avatar" src="{{ .Site.Params.avatar | default "network.png" | relURL }}" alt="{{ .Site.Params.author | default "John Doe" }}" /></a>
+      <a href="{{ .Site.BaseURL }}"><img class="app-header-avatar" src="{{ .Site.Params.avatar | default "avatar.jpeg" | relURL }}" alt="{{ .Site.Params.author | default "John Doe" }}" /></a>
       <h1>{{ .Site.Title }}</h1>
       {{- with .Site.Menus.main }}
       <nav class="app-header-menu">
@@ -49,7 +49,7 @@
       <footer>
         <div>
           <hr>
-          <small>Copyright &#169; 2021 Anneliese Brei</small>
+          <p><small>{{ .Site.Params.Copyright | default "Copyright © 2021 Anneliese Brei" }}</small></p>
         </div>
       </footer>
     </main>

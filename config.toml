@@ -9,7 +9,7 @@ math = true
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "Posts"
     url = "/"
     weight = 1
   [[menu.main]]
@@ -23,10 +23,16 @@ math = true
     url = "/about/"
     weight = 3
 
+[taxonomies]
+   tag = "tags"
+
 [params]
     author = "Anneliese Brei"
     description = "A University Student's Honors Research"
     menu_item_separator = "-"
+    avatar = "network.png"
+    Copyright = "Copyright © 2021 Anneliese Brei"
+    
 
     [[params.social]]
         icon = "github"
