@@ -1,6 +1,6 @@
 baseurl = "https://adbrei.github.io/qfl-research/"
 languageCode = "en-us"
-title = "Quantum Federated Learning"
+title = "Quantum Federated Learning Blog"
 theme = "m10c"
 paginate = 8
 math = true
