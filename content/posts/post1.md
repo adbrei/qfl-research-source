@@ -1,6 +1,6 @@
 ---
 title: "Intro to My Research" 
-tags: ["quantum federated learning"] 
+tags: ["Quantum Federated Learning"] 
 date: "2021-06-01" 
 lastmod: "2021-06-1"
 ---
