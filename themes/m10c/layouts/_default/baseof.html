@@ -41,10 +41,17 @@
       </div>
       {{- end }}
     </header>
+
     <main class="app-container">
       {{ block "main" . }}
         {{ .Content }}
       {{ end }}
+      <footer>
+        <div>
+          <hr>
+          <small>Copyright &#169; 2021 Anneliese Brei</small>
+        </div>
+      </footer>
     </main>
   </body>
 </html>
