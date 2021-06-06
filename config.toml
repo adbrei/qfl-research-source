@@ -2,6 +2,10 @@ baseurl = "https://adbrei.github.io/qfl-research/"
 languageCode = "en-us"
 title = "Quantum Federated Learning Blog"
 theme = "m10c"
+
+# Specify where to look for the images in this configuration
+assetDir = "static"
+
 paginate = 8
 math = true
 
