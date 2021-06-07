@@ -7,8 +7,6 @@ lastmod: "2021-06-1"
 
 ![Next Word Prediction](next_word_prediction.png)
 
-Testing images...
-
 ## Federated Deep Learning on Quantum Computers
 
 Welcome to my blog about my undergraduage honors computer science research! I am excited to start working this summer in preparation for my senior year at William & Mary. 
