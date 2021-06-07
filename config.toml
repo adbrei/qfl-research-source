@@ -9,6 +9,7 @@ assetDir = "static"
 paginate = 8
 math = true
 
+staticDir = "static"
 
 [menu]
   [[menu.main]]
