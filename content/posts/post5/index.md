@@ -12,7 +12,7 @@ On 29 January 2019, the MIT Technology Review published an article[^1] by Martin
 ---------------
 ### Definitions
 
-[Quantum computers:](https://en.wikipedia.org/wiki/Quantum_computing)\
+[Quantum computers:](https://en.wikipedia.org/wiki/Quantum_computing)
 Machines that use fundamental principles of quantum mechanics to gain tremendous computing power and outperform supercomputers.
 
 [Qubit:](https://en.wikipedia.org/wiki/Qubit)\
@@ -29,6 +29,14 @@ The phenonmenon when "noise" in the environment affects qubits' quantum behavior
 
 [Quantum Supremacy:](https://en.wikipedia.org/wiki/Quantum_supremacy)\
 The point at which quantum computers are completing problems that are beyond the reach of supercomputers. (Note: at the time of this publication in January 2019, supremacy had not yet been achieved. In December 2019, Google announced that they achieved quantum supremacy.[^2])
+
+![qcomputer](qcomputer.png "Quantum Computer")
+![qubit](qubit.png "Qubit")
+![superposition](superposition.png "Quantum Superposition")
+![entanglement](entanglement.png "Quantum Entanglement")
+![decoherence](decoherence.png "Quantum Decoherence")
+![supremacy](supremacy.png "Quantum Supremacy")
+(Images from www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing)
 
 ### References
 [^1]: Giles, Martin. “Explainer: What Is a Quantum Computer?” MIT Technology Review, MIT Technology Review, 2 Apr. 2020, www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/. 
