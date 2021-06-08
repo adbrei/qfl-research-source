@@ -14,6 +14,8 @@ The paper "TensorFlow Quantum: A Software Framework for Quantum Machine Learning
 ### Equation (1)
 ![Equation 1](equation1.png)
 
+This equation...
+
 ### Equation (2)
 ![Equation 2](equation2.png)
 
