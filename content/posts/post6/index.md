@@ -20,7 +20,7 @@ Strict data protection laws across many parts of the globe restrict programmers'
 #### Conceptual View of FL
 FL is like a federation of states in which a group of partially self-governing states are joined by an overarching form of governance. It is a system of edge devices that individually collect data to train personalized algorithms that are periodically collected to refine an overarching algorithm which is then redistributed.
 
-FL is a type of distributed learning but is different than High Performance Computing (HPC). The motivation behind HPC is to "spread out" a collection of data across multiple machines to reduce time required for learning. FL attempts to reach data from multiple machines, regardless of location, to train its algorithm. Since different types of machines have disjoint data, FL must account for non-IID data.
+FL is a type of distributed learning but is different than High Performance Computing (HPC). The motivation behind HPC is to "spread out" data across multiple machines to reduce time required for learning. Meanwhile FL attempts to reach data from multiple machines, regardless of location, to train its algorithm. Since different types of machines have disjoint data, FL must account for [non-IID data](https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/learning-from-non-iid-data).
 
 #### FL Architecture and Process
 FL has a curator (the central server) that is in charge of the main training algorithm and coordinating activities with its network of (potentially millions of) edge devices.
@@ -43,5 +43,9 @@ Potential uses of FL might include an anonymous Bureau of Meteorology, where mul
 
 Another use could be a hypothetical linked commercial bank and e-commerce economy. The learning algorithm would be tasked with predicting product purchases and would learn from data collected at both the bank and the economy. Both institutions would train their own (disjoint) models that would be later shared with the curator. No private or individual information is ever shared, so all customers maintain their privacy.
 
+#### Further Reading
+On 10 April 2020, Saheed Tijani wrote a tutorial, "Federated Learning: A Step by Step Implementation in Tensorflow," published by Towards Data Science on Medium.[^2] It follows this piece and walks through code to create a federated learning framework with TensorFlow. You can access the tutorial [here](https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399).
+
 ### References
 [^1]: Tijani, S., &amp; Follow. (2020, April 14). Federated Learning: Why, What and How? LinkedIn. https://www.linkedin.com/pulse/federated-learning-why-what-how-saheed-tijani. 
+[^2]: Tijani, Saheed. “Federated Learning: A Step by Step Implementation in Tensorflow.” Medium, Towards Data Science, 9 Sept. 2020, https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399. 
