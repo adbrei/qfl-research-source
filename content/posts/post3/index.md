@@ -1,7 +1,7 @@
 ---
 title: "Literature Review: ''How to get started in quantum computing'' "
 author: "Anneliese Brei"
-tags: ["Quantum Computing", "Classical Computing"] 
+tags: ["Quantum Computing"] 
 date: "2021-06-03" 
 ---
 -----------------------------
