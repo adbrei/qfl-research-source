@@ -1,7 +1,7 @@
 ---
 title: "Literature Review: ''How to Read a Paper''"
 author: "Anneliese Brei"
-tags: ["Federated Learning"] 
+tags: ["Performing Research"] 
 date: "2021-06-10" 
 ---
 -----------------------------
