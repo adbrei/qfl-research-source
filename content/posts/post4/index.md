@@ -1,5 +1,5 @@
 ---
-title: "Understanding Mathematical Theory Behind TensorFlow Quantum for Hybrid Learning"
+title: "Understanding Mathematical Theory Behind TensorFlow Quantum for Hybrid Learning (draft)"
 author: "Anneliese Brei"
 tags: ["Quantum Computing"] 
 date: "2021-06-08" 
@@ -7,6 +7,8 @@ katex: true
 ---
 -----------------------------
 *(Last updated: June 8, 2021)*
+
+Please note, this draft is a work in progress. For the next few days, I will continue to write here about the equations as I better understand them. Once finalized, I will update the publication date.
 
 The paper "TensorFlow Quantum: A Software Framework for Quantum Machine Learning" by Michael Broughton, et al. introdues the TensorFlow Quantum library with respect to implementing hybrid models that handle classical or quantum data [^1]. In this post, I attempt to give a brief explaination of the equations given in Section III, "Theory of Hybrid Quantum-Classical Machine Learning."
 
