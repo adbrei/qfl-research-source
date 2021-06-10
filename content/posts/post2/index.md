@@ -1,7 +1,7 @@
 ---
 title: "Classical versus Quantum Computing" 
 author: "Anneliese Brei"
-tags: ["Quantum Computing", "Classical Computing"] 
+tags: ["Quantum Computing"] 
 date: "2021-06-02" 
 lastchange: "2021-06-03"
 ---
