@@ -2,9 +2,11 @@
 title: "Overview of TensorFlowQuantum Building Blocks"
 author: "Anneliese Brei"
 tags: ["Quantum Computing"] 
-date: "2021-06-22" 
+date: "2021-06-23" 
 ---
 -------
+This post explores Part II, "Software Archtecture & Building Blocks," of the paper "TensorFlow Quantum: A Software Framework for Quantum Machine Learning" paper.
+
 ### What is TensorFlow Quantum?
 
 ![TensorFlow Quantum](TFQ.png "TensorFlow Quantum")
