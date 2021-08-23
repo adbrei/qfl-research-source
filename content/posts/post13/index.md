@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Multilayer Quantum Neural Network"
+title: "Understanding TFQ Binary Classifier Tutorial"
 author: "Anneliese Brei"
 tags: ["Quantum Computing"] 
 date: "2021-08-05" 
