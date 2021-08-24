@@ -1,7 +1,7 @@
 ---
 title: "Review of Neural Networks: Math & Code"
 author: "Anneliese Brei"
-tags: ["Quantum Computing"] 
+tags: ["Neural Networks", "Classical Computing", "Machine Learning"] 
 date: "2021-08-10" 
 ---
 -------
